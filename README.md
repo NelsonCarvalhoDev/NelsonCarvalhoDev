@@ -23,6 +23,6 @@
 
  ##
   
- ![Snake animation](https://github.com/MamboDark/Mambo/blob/output/github-contribution-grid-snake.svg)
+ ![snake gif](https://github.com/MamboDark/MamboDark/blob/output/github-contribution-grid-snake.svg)
   
 </div>
