@@ -9,9 +9,15 @@
   <a href="https://linktr.ee/mambodark"><img src="./folder/linktree.svg"></a>
   <hr><br>
   
- ![snake gif](https://github.com/MamboDark/MamboDark/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+<div>
+  <!--![snake gif](https://github.com/MamboDark/MamboDark/blob/output/github-contribution-grid-snake.svg)-->
+  
+  ![Snake animation](https://github.com/MamboDark/MamboDark/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
 <hr><br>
 <div>
 <a href="https://github.com/MamboDark">
