@@ -1,6 +1,5 @@
 <h1> Hello Git Hub Members! </h1>
-<img align = "right" alt="GIF" src = "./folder/octocat-1677445665056.png" width="400px">
-<br>
+<img align = "right" alt="GIF" src = "./folder/octocat-1677445665056.png" width="300px">
 <div> 
   
   <a href="https://instagram.com/originalmambo"><img src="./folder/Instagram.svg"></a>
@@ -13,6 +12,12 @@
 </div>
 
 <div>
+  <a href="https://github.com/MamboDark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamboDark&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MamboDark&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+<div>
   <!--![snake gif](https://github.com/MamboDark/MamboDark/blob/output/github-contribution-grid-snake.svg)-->
   
   ![Snake animation](https://github.com/MamboDark/MamboDark/blob/output/github-contribution-grid-snake.svg)
@@ -20,10 +25,6 @@
 </div>
 
 <hr><br>
-<div>
-<a href="https://github.com/MamboDark">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamboDark&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MamboDark&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
+<p align="left"> <img src = "https://komarev.com/ghpvc/?username=MamboDark" alt = "MamboDark" /> </p>
  
