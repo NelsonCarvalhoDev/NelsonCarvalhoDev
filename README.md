@@ -7,14 +7,13 @@
   <a href="https://discord.gg/kyDDcyzK94"><img src="./folder/Discord.svg"></a>
   <a href="https://www.linkedin.com/in/onelsoncarvalho"><img src="./folder/LinkedIn.svg"></a>
   <a href="https://linktr.ee/mambodark"><img src="./folder/linktree.svg"></a>
-  <hr><br>
+
   
 </div>
 
 <div>
   <a href="https://github.com/MamboDark">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamboDark&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MamboDark&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamboDark&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div>
