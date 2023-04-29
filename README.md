@@ -23,7 +23,7 @@
     
   <footer>
     <div> 
-        <a href="https://instagram.com/originalmambo" target="_blank"><img src="./folder/Instagram.svg"></a>
+        <a href="https://instagram.com/onelsoncarvalho" target="_blank"><img src="./folder/Instagram.svg"></a>
         <a href="https://www.twitch.tv/mambodark"><img src="./folder/Twitch.svg"></a>
         <a href="https://discord.gg/kyDDcyzK94"><img src="./folder/Discord.svg"></a>
         <a href="https://www.linkedin.com/in/onelsoncarvalho"><img src="./folder/LinkedIn.svg"></a>
