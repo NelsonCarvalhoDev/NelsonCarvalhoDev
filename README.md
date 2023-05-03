@@ -4,6 +4,7 @@
   <hr>
   <!--<img align = "right" alt="GIF" src = "./folder/octocat-1677445665056.png" width="300px">-->
   
+  <img align = "right" alt="Dev-boy" src = "" width="350px"></br>
   <img align = "right" alt="Dev-boy" src = "./folder/web-developer.svg" width="350px">
 </head>
 <body>
