@@ -28,9 +28,10 @@
   
   </div>
   <hr>
-    <!--Texto magico-->
+    <!--Texto magico rede social-->
+
   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff9900&size=20&left=true&vCenter=true&width=1000&lines=Follow+me!+;Social+medias:;)
-    
+  
   <footer>
     <div> 
         <a href="https://instagram.com/onelsoncarvalho" target="_blank"><img src="./folder/Instagram.svg"></a>
