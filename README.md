@@ -4,8 +4,8 @@
   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00e1ff&size=30&left=true&vCenter=true&width=1000&lines=Hi,+Git+Hub+Members!+;Mambo+is+my+nickname!+;My+Name+is+Nelson!;I+currently+live+in+Brazil+;I+am+studying+Full+Stack+Development+at+Estácio+University.+;Thanks+for+visiting+my+profile!;)
   <img align = "top" alt="Dev-boy" src = "./folder/fotor_2023-5-3_14_53_34.png" width="200px">
 
-  <div style="text-align: top;">
-  <img src="./folder/fotor_2023-5-3_14_53_34.png" width="200px" alt="Imagem" style="float: right;">
+  <div align = "top">
+  <img src="./folder/fotor_2023-5-3_14_53_34.png" width="200px" alt="Imagem" align = "right">
   </div>
 
 
