@@ -40,6 +40,7 @@
         <a href="https://www.linkedin.com/in/onelsoncarvalho"><img src="./folder/LinkedIn.svg"></a>
         <a href="https://linktr.ee/mambodark"><img src="./folder/linktree.svg"></a>
     </div>
+    <!-- Contador de viewers-->
       <hr><p align="left"> <img src = "https://komarev.com/ghpvc/?username=MamboDark" alt = "MamboDark" /> </p>
   </footer>
 </body>
