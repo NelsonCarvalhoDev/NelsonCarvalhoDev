@@ -16,7 +16,7 @@
   </div>
 
   <div align="right">
-    <img width: 200px; src="./folder/fotor_2023-5-3_14_53_34.png" alt="Imagem">
+    <img width = "200px" src="./folder/fotor_2023-5-3_14_53_34.png" alt="Imagem">
   </div>
 
 
