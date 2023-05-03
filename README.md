@@ -1,10 +1,11 @@
 <head>
     
   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00e1ff&size=30&left=true&vCenter=true&width=1000&lines=Hi,+Git+Hub+Members!+;Mambo+is+my+nickname!+;My+Name+is+Nelson!;I+currently+live+in+Brazil+;I+am+studying+Full+Stack+Development+at+Estácio+University.+;Thanks+for+visiting+my+profile!;)
+  <img align = "top" alt="Dev-boy" src = "./folder/fotor_2023-5-3_14_53_34.png" width="200px">
   <hr>
   <!--<img align = "right" alt="GIF" src = "./folder/octocat-1677445665056.png" width="300px">-->
   
-  <img align = "right" alt="Dev-boy" src = "" width="350px"></br>
+  
   <img align = "right" alt="Dev-boy" src = "./folder/web-developer.svg" width="350px">
 </head>
 <body>
