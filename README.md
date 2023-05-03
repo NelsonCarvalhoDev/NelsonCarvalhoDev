@@ -5,7 +5,7 @@
   <img align = "top" alt="Dev-boy" src = "./folder/fotor_2023-5-3_14_53_34.png" width="200px">
 
   <div style="text-align: right;">
-  <img src="./folder/fotor_2023-5-3_14_53_34.png" alt="Imagem" style="float: right;">
+  <img src="./folder/fotor_2023-5-3_14_53_34.png" width="200px" alt="Imagem" style="float: right;">
   </div>
 
 
