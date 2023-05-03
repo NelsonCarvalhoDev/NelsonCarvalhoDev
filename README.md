@@ -20,7 +20,8 @@
 
   <hr>
   <div>
-      <!-- Texto magico-->
+   
+
   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff15&size=15&left=true&vCenter=true&width=1000&lines=Snake+Animation!;)
   <!--Animação snake-->
   ![Snake animation](https://github.com/MamboDark/MamboDark/blob/output/github-contribution-grid-snake.svg)
