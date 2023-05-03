@@ -1,6 +1,6 @@
 <head>
   <link rel="stylesheet" type="text/css" href="style.css">
-  
+
   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00e1ff&size=30&left=true&vCenter=true&width=1000&lines=Hi,+Git+Hub+Members!+;Mambo+is+my+nickname!+;My+Name+is+Nelson!;I+currently+live+in+Brazil+;I+am+studying+Full+Stack+Development+at+Estácio+University.+;Thanks+for+visiting+my+profile!;)
   <img align = "top" alt="Dev-boy" src = "./folder/fotor_2023-5-3_14_53_34.png" width="200px">
   <hr>
@@ -16,8 +16,8 @@
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamboDark&theme=dark"/>
   </div>
 
-  <div align="right">
-    <img width = "200px" src="./folder/fotor_2023-5-3_14_53_34.png" alt="Imagem">
+  <div>
+    <img align="right" width = "200px" src="./folder/fotor_2023-5-3_14_53_34.png" alt="Imagem">
   </div>
 
 
