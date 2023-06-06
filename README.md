@@ -1,7 +1,8 @@
 <head>
-
+  <h1> Academic Profile </h1>
+  
   <!--Texto magico-->
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00e1ff&size=30&width=1000&lines=Hi,+Git+Hub+Members!+;Academic+Profile+!!+;My+Name+is+Nelson!;I+currently+live+in+Brazil+;I+am+studying+Full+Stack+Development+at+Estácio+University.+;Thanks+for+visiting+my+profile!;)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00e1ff&size=30&width=1000&lines=Hi,+Git+Hub+Members!+;My+Name+is+Nelson!;I+currently+live+in+Brazil+;I+am+studying+Full+Stack+Development+at+Estácio+University.+;Thanks+for+visiting+my+profile!;)
 
   <!--Foto de perfil-->
   <img width="200px" alt="Imagem" align = "top" align = "right" src="./folder/fotor_2023-5-3_14_53_34.png">
