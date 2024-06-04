@@ -4,7 +4,7 @@
 I'm Full Stack Developer, I live in Portugal, I am 28 years old and I am in constant learning...
 
 ## 🛠 Skills
-Javascript, HTML5, CSS3, Typescript, Python, Figma, , Node.js, 
+Javascript, HTML5, CSS3, Typescript, Python,
 
 ## 🚀 Frameworks, Platforms and Libraries
 Bootstrap, Node.js, Next JS, Vue.js,
